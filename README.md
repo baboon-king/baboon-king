@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![BaboonKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=baboon-king&count_private=true)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
