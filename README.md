@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![BaboonKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=baboon-king&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baboon-king)](https://github.com/baboon-king/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baboon-king)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
