@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![BaboonKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=baboon-king&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baboon-king)
+| <a href="https://github.com/baboon-king/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baboon-king&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BaboonKing's github stats" /></a> | <a href="https://github.com/baboon-king/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baboon-king&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
